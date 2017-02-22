@@ -16,7 +16,7 @@
             <goals>
               <goal>exec</goal>
             </goals>
-            <configuration>>
+            <configuration>
             </configuration>
           </execution>
         </executions>
